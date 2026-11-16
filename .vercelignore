@@ -1,0 +1,13 @@
+# Files and directories to exclude from Vercel deployment bundle
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.venv/
+env/
+venv/
+SETUP.bat
+START.bat
+prepare_dataset.py
+train_model.py
